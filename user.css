@@ -514,7 +514,7 @@ object-position: 100%;
 
 .columns {
 display: flex;
-flex-direction: row;
+flex-direction: column;
 width: 100%;
 padding-bottom: 20px;
 
