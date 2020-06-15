@@ -398,6 +398,8 @@ header {
   and (device-height: 823px) 
   and (-webkit-device-pixel-ratio: 3.5) 
   and (orientation: portrait) {
+	  
+	  body {
  background-color: lightgray;
      font-family: arial;
   	margin:0;
