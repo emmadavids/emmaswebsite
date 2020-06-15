@@ -461,8 +461,8 @@ width:90%;
 }
 
 .main-nav
-{ display: block;
-  font-size: 1.3em;
+{ display: inline-block;
+  font-size: 2em;
 	text-transform: uppercase;
   padding-bottom: 15px;
   position: absolute;
@@ -514,6 +514,7 @@ display: flex;
 flex-direction: column;
 width:89%;
 margin-left: 40px;
+padding: 30px;
 
 
 }
