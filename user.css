@@ -411,15 +411,6 @@ header {
     
   }
 	  
-	  h1 { 
-margin-top: 10;
-font-size: 1.1em;		  
-margin-right: 40;
-background-color: #D4F0FC;
-padding: 14px;
-border-radius: 8px;
-  
-}
 
 
 .emmapic {
@@ -462,7 +453,7 @@ text-align: center;
 object-fit: cover;
 object-position: 100%;
 background-color: #D4F0FC;
-font-size: 1.1em;
+font-size: 2em;
 z-index: 1;
 position:absolute;
 top:-2;
@@ -477,6 +468,7 @@ width:90%;
   font-size: 2em;
 	text-transform: uppercase;
   padding-bottom: 15px;
+	border-radius:8px;
   position: absolute;
   top: 74px;
   left: 0;
@@ -525,8 +517,8 @@ object-position: 100%;
 display: flex;
 flex-direction: column;
 width:89%;
-margin-left: 40px;
-padding: 30px;
+margin-left: 10px;
+padding: 50px;
 
 
 }
